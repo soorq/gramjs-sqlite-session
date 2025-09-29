@@ -5,12 +5,6 @@
 	"type": "module",
 	"main": "./dist/index.js",
 	"types": "./dist/index.d.ts",
-	"exports": {
-		".": {
-			"types": "./dist/index.d.ts",
-			"default": "./dist/index.js"
-		}
-	},
 	"files": [
 		"dist",
 		"README.md"
@@ -29,7 +23,7 @@
 		"telegram-client",
 		"telegram-session"
 	],
-	"author": "Danil",
+	"author": "Danil <fantastfad830@gmail.com>",
 	"license": "MIT",
 	"dependencies": {
 		"better-sqlite3": "^8.0.0"
