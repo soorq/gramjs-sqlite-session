@@ -26,7 +26,7 @@
 	"author": "Danil <fantastfad830@gmail.com>",
 	"license": "MIT",
 	"dependencies": {
-		"better-sqlite3": "^8.0.0"
+		"better-sqlite3": "^12.4.1"
 	},
 	"peerDependencies": {
 		"telegram": "^2.0.0"
